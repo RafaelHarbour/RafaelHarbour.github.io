@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Regression](http://example.com/)
+[Regression](/Comparing-linear-regression-with-random-forest-regression.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
